@@ -1,4 +1,6 @@
 /.vscode
 /temp.cpp
 /merge_sort.cpp
+/gcd.cpp
+/prime_number.cpp
 *.exe
